@@ -1,1 +1,1 @@
-Only Responsive (@media) for phones
+Only Responsive (@media) for phones 📲✔
